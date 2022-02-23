@@ -48,3 +48,6 @@ npm i github:Mathieu2301/TradingView-API
 You can find all the examples and snippets in `./examples` folder.
 
 ___
+## Problems
+ If you have errors in console or unwanted behavior,
+ please create an issue [here](https://github.com/Mathieu2301/Tradingview-API/issues).
