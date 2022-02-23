@@ -58,6 +58,7 @@ function success() {
   process.exit(0);
 })();
 
+
 setTimeout(() => {
   console.log('§30§101 TIMEOUT §0');
   throw new Error('Timeout');
